@@ -1,6 +1,6 @@
-Vijaykumar Patel
-Comp 354
-Concordia University
+* Vijaykumar Patel
+* Comp 354
+* Concordia University
 
 # Book Project
 This application allows for the management of books according to reading status.
